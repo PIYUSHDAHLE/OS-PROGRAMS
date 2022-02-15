@@ -122,4 +122,3 @@ int main()
 	cout << "\nAverage waiting time: " << avgwt / n << endl;
 	cout <<"Average Turn Around time:"<< avgtt / n;
 }
-//This code is contributed by shivi_Aggarwal
